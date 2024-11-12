@@ -15,9 +15,6 @@ The agent produces detailed, factual, and unbiased research reports with citatio
 - Limited web sources in existing services lead to misinformation and shallow results.
 - Selective web sources can introduce bias into research tasks.
 
-## Demo
-https://github.com/user-attachments/assets/2cc38f6a-9f66-4644-9e69-a46c40e296d4
-
 ## Architecture
 
 The core idea is to utilize 'planner' and 'execution' agents. The planner generates research questions, while the execution agents gather relevant information. The publisher then aggregates all findings into a comprehensive report.
